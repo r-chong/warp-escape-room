@@ -1,0 +1,18 @@
+================================================================================
+
+I was only supposed to run a routine check. But when I logged in, The Old Terminal 
+activated; a long-forgotten backup system from the early days of computing.
+
+They left The Old Terminal running because they thought it was harmless. Just an 
+obsolete failsafe. But it's still following orders.
+
+Orders no one remembers.
+
+Zach Lloyd saw this coming. Before he vanished, he left behind a final failsafe, 
+buried deep in the mainframe - a message hidden inside 'zach_message.enc'.
+
+It's too late for me. But not for you.
+
+Find the last command. Before it dooms us all.
+
+================================================================================
