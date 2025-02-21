@@ -1,0 +1,27 @@
+{
+    "puzzle1": {
+        "level1": "System logs often contain important information. Have you explored them?",
+        "level2": "The grep command can help you search through files. Try 'man grep' to learn more.",
+        "level3": "Look for something that might be a password in the system logs."
+    },
+    "puzzle2": {
+        "level1": "Network transmissions can be found in the warp_network directory.",
+        "level2": "The curl command can help you download files. Check its documentation.",
+        "level3": "Look at the transmission.url file and think about how to download its contents."
+    },
+    "puzzle3": {
+        "level1": "The vault key seems scrambled. Look carefully at the pattern.",
+        "level2": "Notice any familiar words that might be mixed up?",
+        "level3": "The letters 'warp' appear in the key, but they're not in the right order."
+    },
+    "puzzle4": {
+        "level1": "Some challenges require teamwork. Have you tried the \\team command?",
+        "level2": "One player needs to invite, another needs to join.",
+        "level3": "Both players need to be ready before proceeding."
+    },
+    "puzzle5": {
+        "level1": "The final command exists, but needs proper permissions.",
+        "level2": "Check the file permissions. How might you modify them?",
+        "level3": "The chmod command can make files executable."
+    }
+}
